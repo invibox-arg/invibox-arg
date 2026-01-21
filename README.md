@@ -1,16 +1,19 @@
-## Hi there 👋
+📜 Invitaciones Digitales Premium
 
-<!--
-**invibox-arg/invibox-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Características de mis Invitaciones
+•	Diseño Responsivo de Alta Fidelidad: Experiencia optimizada para dispositivos móviles con efectos visuales avanzados como fondos fijos (parallax).
+•	Previsualización Estética en WhatsApp: Configuración de metadatos (Open Graph) para que el link incluya imagen, título y descripción personalizada al ser compartido.
+•	Gestión de Invitados en Tiempo Real: Integración con Google Forms y Google Sheets para que los organizadores vean las confirmaciones al instante.
+•	Interactividad Completa: Incluye contadores regresivos, mapas dinámicos, integración con Spotify para sugerencias de música y botones de confirmación.
+🎨 Catálogo de Estilos
+Ofrezco tres líneas estéticas adaptables a cualquier evento:
+1.	Clásico & Editorial: Elegancia atemporal con tipografía Serif y paletas crema.
+2.	Moderno & Night: Diseños oscuros con acentos neón, ideales para fiestas de 15, 18 o eventos corporativos.
+3.	Boho & Natural: Estética orgánica con tonos tierra y verdes, perfecta para eventos al aire libre o bautismos.
+🛠️ Stack Tecnológico
+•	Frontend: HTML5, CSS3 (Variables y Flexbox), JavaScript Vanilla.
+•	Despliegue: GitHub Pages para un hosting rápido y seguro.
+•	Datos: Google Workspace API (Forms/Sheets).
+________________________________________
+Si estás interesado en una invitación personalizada para tu evento, no dudes en contactarme.
+________________________________________
